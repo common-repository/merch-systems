@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-27 23:39+0200\n"
+"PO-Revision-Date: 2017-09-27 23:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: anti-design\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/Merchsys_Admin.php:49 admin/partials/merchsys_settings_page.php:16
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/Merchsys_Admin.php:57
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Du hast nicht die nötigen Berechtigungen um auf diese Seite zuzugreifen"
+
+#: admin/partials/merchsys_settings_page.php:23
+msgid "merch.systems Shop URL"
+msgstr "merch.systems Shop URL"
+
+#: admin/partials/merchsys_settings_page.php:27
+msgid "SOAP Storekey"
+msgstr ""
+
+#: admin/partials/merchsys_settings_page.php:31
+msgid "SOAP Passphrase"
+msgstr "SOAP Passphrase"
+
+#: admin/partials/merchsys_user_page.php:15
+msgid "User data"
+msgstr ""
+
+#: includes/Merchsys_Settings.php:142
+msgid "Username"
+msgstr "Username"
+
+#: includes/Merchsys_Settings.php:143
+msgid "Password"
+msgstr "Passwort"
+
+#: includes/Merchsys_Settings.php:144
+msgid "Confirm password"
+msgstr "Passwort bestätigen"
+
+#: includes/Merchsys_Settings.php:145
+msgid "Email"
+msgstr "E-Mail"
+
+#: includes/Merchsys_Settings.php:146
+msgid "Confirm Email"
+msgstr "E-Mail bestätigen"
+
+#: includes/Merchsys_Settings.php:147
+msgid "Your personal details"
+msgstr "Deine persönlichen Angaben"
+
+#: includes/Merchsys_Settings.php:148
+msgid "Company"
+msgstr "Firma"
+
+#: includes/Merchsys_Settings.php:149
+msgid "First name"
+msgstr "Vorname"
+
+#: includes/Merchsys_Settings.php:150
+msgid "Last name"
+msgstr "Name"
+
+#: includes/Merchsys_Settings.php:151
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/Merchsys_Settings.php:152
+msgid "Your address"
+msgstr "Deine Adresse"
+
+#: includes/Merchsys_Settings.php:153
+msgid "Street and number"
+msgstr "Straße und Hausnummer"
+
+#: includes/Merchsys_Settings.php:154
+msgid "Postcode"
+msgstr "PLZ"
+
+#: includes/Merchsys_Settings.php:155
+msgid "City"
+msgstr "Ort"
+
+#: includes/Merchsys_Settings.php:156
+msgid "Country"
+msgstr "Land"
+
+#: includes/Merchsys_Settings.php:157
+msgid "An error occurred."
+msgstr "Es ist ein Fehler aufgetreten."
+
+#: includes/Merchsys_Settings.php:158
+msgid "Please fill all mandatory fields."
+msgstr "Bitte alle Pflichtfelder ausfüllen."
+
+#: includes/Merchsys_Settings.php:159
+msgid "The given email address is invalid."
+msgstr "Die eingegebene E-Mail-Adresse ist ungültig."
+
+#: includes/Merchsys_Settings.php:160
+msgid "This product is not in stock anymore."
+msgstr "Dieser Artikel ist nicht mehr vorrätig."
+
+#: includes/Merchsys_Settings.php:161
+msgid "The given amount is not valid."
+msgstr "Die eingegebene Anzahl ist ungültig."
+
+#: includes/Merchsys_Settings.php:162
+msgid "Maximum per user exceeded."
+msgstr "Maximale Anzahl pro Kunde überschritten."
+
+#: includes/Merchsys_Settings.php:163
+msgid "The given address is not valid."
+msgstr "Die eingegebene Adresse ist ungültig."
+
+#: includes/Merchsys_Settings.php:164
+msgid "The minimum order amount has not been reached."
+msgstr "Der Mindestbestellwert wurde noch nicht erreicht."
+
+#: includes/Merchsys_Settings.php:165
+msgid "The downloadcode is invalid."
+msgstr "Der Downloadcode ist ungültig."
+
+#: includes/Merchsys_Settings.php:166
+msgid "The voucher is invalid."
+msgstr "Der Gutschein ist ungültig."
+
+#: includes/Merchsys_Settings.php:167
+msgid "The voucher is not valid for the products in the basket."
+msgstr "Der Gutschein ist für die Produkte im Warenkorb nicht gültig."
+
+#: includes/Merchsys_Settings.php:168
+msgid "The changes have been saved."
+msgstr "Die Änderungen wurden gespeichert."
+
+#: includes/Merchsys_Settings.php:169
+msgid "The amount has been changed."
+msgstr "Die Anzahl wurde geändert."
+
+#: includes/Merchsys_Settings.php:170
+msgid "The product has been deleted."
+msgstr "Der Artikel wurde gelöscht."
+
+#: includes/Merchsys_Settings.php:171
+msgid "The item has been added."
+msgstr "Der Artikel wurde hinzugefügt."
+
+#: includes/Merchsys_Settings.php:172
+msgid ""
+"The item has been added, but the amount has been reduced due to the "
+"availability of the item."
+msgstr ""
+"Der Artikel wurde hinzugefügt, aber die Anzahl wurde aufgrund der "
+"Verfügbarkeit des Artikels reduziert."
+
+#: includes/Merchsys_Settings.php:173
+msgid "The voucher has been added to the shopping cart."
+msgstr "Der Gutschein wurde dem Warenkorb hinzugefügt."
+
+#: public/Merchsys_Public.php:88
+msgid ""
+"Please make sure that the Storekey and Passphrase are defined in your "
+"Merchsys settings page"
+msgstr ""
+
+#: public/includes/Common/404.php:18
+msgid "404 Page not found"
+msgstr "404 Seite nicht gefunden"
+
+#~ msgid ""
+#~ "Add this shortcode if you want to show the shop title in the age instead "
+#~ "of using the main page title"
+#~ msgstr ""
+#~ "Füge diesen Shortcode hinzu, um in der Seite den Shop Titel anstatt des "
+#~ "Haupttitels anzuzeigen"
+
+#~ msgid "Default text"
+#~ msgstr "Standard text"
+
+#~ msgid "Main shop page"
+#~ msgstr "Shop Hauptseite"
+
+#~ msgid "The default text to show in the main page instead of Categories."
+#~ msgstr "Standardtext, der anstatt der Kategorien angezeigt"
+
+#~ msgid "Text color"
+#~ msgstr "Textfarbe"
+
+#~ msgid "Choose text color"
+#~ msgstr "Textfarbe wählen"
+
+#~ msgid "Shop main page (where you add the shortcode)"
+#~ msgstr "Shop Hauptseite (auf diese wird der Shortcode hinzugefügt)"
+
+#~ msgid "Please select a page"
+#~ msgstr "Bitte wähle eine Seite"
+
+#~ msgid "Login main page (where you add the registration/login shortcode)"
+#~ msgstr ""
+#~ "Login Hauptseite (auf diese wird Registration/Login Shortcode hinzugefügt)"
+
+#~ msgid "Show carousel in shop main page?"
+#~ msgstr "Slider auf Shop Hauptseite anzeigen?"
+
+#~ msgid "Add categories to page menu as submenu?"
+#~ msgstr "Kategorien als Submenü hinzufügen?"
+
+#~ msgid "Add menu items for basket to navigation?"
+#~ msgstr "Warenkorb als Navigationspunkt hinzufügen?"
+
+#~ msgid "Navigation to add the login/logout item to"
+#~ msgstr "Navigation zur der Warenkorb hinzugefügt wird"
+
+#~ msgid "Please select a menu"
+#~ msgstr "Bitte wähle ein Menü"
+
+#~ msgid "Set-up"
+#~ msgstr "Setup"
+
+#~ msgid "The field %f is required"
+#~ msgstr "Das Feld %f ist ein Pflichtfeld"
+
+#~ msgid "Sorry, that username already exists!"
+#~ msgstr "Der Username existiert bereits"
+
+#~ msgid "Sorry, the username you entered is not valid"
+#~ msgstr "Der Username ist ungültig"
+
+#~ msgid "The fields for %f don't match"
+#~ msgstr "Die Felder %f stimmen nicht überein"
+
+#~ msgid "Password length must be greater than %l"
+#~ msgstr "Das Passwort muss länger als %l Zeichen sein"
+
+#~ msgid "This Email is already in use"
+#~ msgstr "Die E-Mail-Adresse ist bereits in Benutzung"
+
+#~ msgid "The login failed. Check your credentials or try again"
+#~ msgstr "Der Login ist fehlgeschlagen"
+
+#~ msgid "Payment methods"
+#~ msgstr "Zahlungsarten"
+
+#~ msgid "Please select a payment method"
+#~ msgstr "Bitte wähle eine Zahlungsart"
+
+#~ msgid "The delivery address is different from the billing one"
+#~ msgstr "Alternative Lieferadresse"
+
+#~ msgid "AGB read and accepted"
+#~ msgstr "AGB gelesen und akzeptiert"
+
+#~ msgid "Privacy read and accepted"
+#~ msgstr "Datenschutzerklärung gelesen"
+
+#~ msgid "Street"
+#~ msgstr "Straße"
+
+#~ msgid "number"
+#~ msgstr "Hausnummer"
+
+#~ msgid ""
+#~ "Please select the page with the shop shortcode in your Merchsys settings "
+#~ "page"
+#~ msgstr ""
+#~ "Please select the page with the shop shortcode in your Merchsys settings "
+#~ "page"
+
+#~ msgid "Please add the SOAP Url in your Merchsys settings page"
+#~ msgstr "Please add the SOAP Url in your Merchsys settings page"
+
+#~ msgid "Basket"
+#~ msgstr "Warenkorb"
+
+#~ msgid "Please set-up the Merchsys plugin to activate your shop"
+#~ msgstr "Please set-up the Merchsys plugin to activate your shop"
+
+#~ msgid "Checkout"
+#~ msgstr "Bestellung abschließen"
+
+#~ msgid "Confirm"
+#~ msgstr "Bestätigen"
+
+#~ msgid "Amount"
+#~ msgstr "Anzahl"
+
+#~ msgid "Shipping costs"
+#~ msgstr "Versandkosten"
+
+#~ msgid "Total"
+#~ msgstr "Gesamt"
+
+#~ msgid "Shipping vendor"
+#~ msgstr "Versandanbieter"
+
+#~ msgid "Amount to pay"
+#~ msgstr "Kosten"
+
+#~ msgid "Log-in failed. Please try again"
+#~ msgstr "Login fehlgeschlagen"
+
+#~ msgid "Not registered yet?"
+#~ msgstr "Noch nicht angemeldet?"
+
+#~ msgid "Click here to register"
+#~ msgstr "Hier registrieren"
+
+#~ msgid "There was a problem with the order."
+#~ msgstr "Es ist ein Fehler aufgetreten."
+
+#~ msgid "Thank you. The order was successful."
+#~ msgstr "Die Bestellung wurde hinzugefügt."
+
+#~ msgid "Your order"
+#~ msgstr "Deine Bestellung"
+
+#~ msgid "Confirm order"
+#~ msgstr "Zahlungspflichtig bestellen"
+
+#~ msgid "Registration complete. Please log-in"
+#~ msgstr "Registrierung erfolgreich"
+
+#~ msgid "Complete registration"
+#~ msgstr "Registrierung abschließen"
+
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+#~ msgid "Reduce from basket"
+#~ msgstr "Warenkorb reduzieren"
+
+#~ msgid "Update basket amount"
+#~ msgstr "Warenkorb ändern"
+
+#~ msgid "Add to basket"
+#~ msgstr "In den Warenkorb"
+
+#~ msgid "Remove from basket"
+#~ msgstr "Aus Warenkorb entfernen"
+
+#~ msgid "Subtotal"
+#~ msgstr "Zwischensumme"
+
+#~ msgid "Go to checkout"
+#~ msgstr "Bestellung abschließen"
+
+#~ msgid "The basket is empty. "
+#~ msgstr "Der Warenkorb ist leer"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Login"
+#~ msgstr "Einloggen"
